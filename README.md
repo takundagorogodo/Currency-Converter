@@ -53,7 +53,7 @@ https://www.exchangerate-api.com/
 
 1. Download or clone the repository:
 ```
-git clone https://github.com/yourusername/currency-converter.git
+git clone https://github.com/takundagorogodo/currency-converter.git
 ```
 2. Open the project folder.
 3. Open `index.html` in your browser.
