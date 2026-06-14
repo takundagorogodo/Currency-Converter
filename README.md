@@ -16,17 +16,6 @@ This project fetches real-time exchange rates using an external API and converts
 - JavaScript (Vanilla JS)
 - ExchangeRate API
 ---
-
-## 📂 Project Structure
-```
-Currency-Converter/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-```
-
 ---
 
 ## ⚙️ How It Works
